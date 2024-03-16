@@ -28,7 +28,7 @@ CraftIQ is an open-source manufacturing software system designed to streamline a
 
 ## YouTube Video
 
-[![Watch the Design session' video in Arabic](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]()
+[![Watch the Solution Design session' video in Arabic](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]()
 
 
 ## Installation
