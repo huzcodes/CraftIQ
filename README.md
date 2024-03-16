@@ -21,6 +21,16 @@ CraftIQ is an open-source manufacturing software system designed to streamline a
 - **Open-Source Community Engagement**: Foster a community of developers and users to contribute to the software.
 - **Scalability and Flexibility**: Design for scalability and customization.
 
+## Solution Design
+
+![CraftIQ-Solution-Design](https://github.com/huzcodes/CraftIQ/assets/64107864/5d7d4677-2147-42da-8543-4d65fcc3d5c0)
+
+
+## YouTube Video
+
+[![Watch the Design session' video in Arabic](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]()
+
+
 ## Installation
 
 To install CraftIQ, follow these steps:
